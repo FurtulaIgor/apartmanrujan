@@ -110,6 +110,8 @@
 
   .icon {
     background-color: white;
+    padding: 5px;
+    margin: 0 0 10px 0;
   }
   
   @media only screen and (max-width: 768px) {
