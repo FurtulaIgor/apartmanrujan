@@ -108,10 +108,8 @@
 
   /* Social network icons*/
 
-  img .icon{
-    height: 50px;
-    width: 50px;
-    
+  .col-6 a {
+    background-color: white;
   }
   
   @media only screen and (max-width: 768px) {
