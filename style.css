@@ -111,6 +111,9 @@
   img .icon{
     height: 50px;
     width: 50px;
+    padding: 5px;
+    margin: -20px;
+    background-color: #ffffff;
   }
   
   @media only screen and (max-width: 768px) {
