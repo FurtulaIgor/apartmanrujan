@@ -42,7 +42,7 @@
   
   @keyframes mymove {
     from {left: 0px;}
-    to {left: auto;}
+    to {left: 500px;}
   }
   
   .menu ul {
