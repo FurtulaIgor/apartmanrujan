@@ -34,7 +34,16 @@
     background-repeat: no-repeat, repeat;
   }
 
+  .header img{
+    position: relative;
+    animation: mymove 5s infinite;
+    animation-timing-function: linear;
+  }
   
+  @keyframes mymove {
+    from {left: 0px;}
+    to {left: auto;}
+  }
   
   .menu ul {
     list-style-type: none;
